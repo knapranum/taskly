@@ -1,7 +1,7 @@
 /* eslint-disable prettier/prettier */
 import { StyleSheet, View, } from "react-native";
-import { theme } from "./theme";
-import { ShoppingListItem } from "./components/ShoppingListItems";
+import { theme } from "../theme";
+import { ShoppingListItem } from "../components/ShoppingListItems";
 
 export default function App() {
    return (
